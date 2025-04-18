@@ -51,7 +51,7 @@ def main():
                 user_search = input('Name: ')
                 if user_search in contacts:
                     pn = contacts[user_search]
-                    print(f"{user_search}'s phone number: {pn}")
+                    print(f"{user_search}'s phone number is {pn}")
                 else:
                     print("Contact not found")
             
