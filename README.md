@@ -1,5 +1,5 @@
 # simple-contact-book-manager
-Command-line application that allows users to store, retrieve, search, and delete contacts. 
+CLI application that allows users to store, retrieve, search, and delete contacts. 
 
 ## Features
 - **Add contact** - User inputs a name and phone number.
