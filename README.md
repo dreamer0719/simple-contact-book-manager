@@ -2,7 +2,7 @@
 CLI application that allows users to store, retrieve, search, and delete contacts. 
 
 ## Video Demo
-https://github.com/user-attachments/assets/b650a5ac-c175-4a42-b7f4-f3f171f57521
+[Simple COntact Book Manager Videdo](https://github.com/user-attachments/assets/b650a5ac-c175-4a42-b7f4-f3f171f57521)
 
 ## Features
 - **Add contact** - User inputs a name and phone number.
